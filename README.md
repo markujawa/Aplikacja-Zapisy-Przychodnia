@@ -4,7 +4,7 @@ Aplikacja umożliwiająca zapis pacjenta na wizytę u lekarza, która także prz
 
 ![Slajd1](https://user-images.githubusercontent.com/101888814/159359852-00de8f2e-ada2-4413-a331-2f1abdaa4a6f.JPG)
 ![Slajd2](https://user-images.githubusercontent.com/101888814/159359895-0f30eb44-e10d-483b-af0d-565aaca37fed.JPG)
-![Slajd3](https://user-images.![Slajd4](https://user-images.githubusercontent.com/101888814/159359925-4aece4d9-7b97-480d-97c8-736a27b26d88.JPG)
+![Slajd3](https://user-images.githubusercontent.com/101888814/159360131-54bbf79e-3282-459f-82bc-fcd113fe0e8a.JPG)
 ![Slajd4](https://user-images.githubusercontent.com/101888814/159359977-dabff111-1ab3-4cb4-9aa2-eb5c2438cd35.JPG)
 ![Slajd5](https://user-images.githubusercontent.com/101888814/159359931-6ce77ea1-de50-4031-8bd3-7c48b25bc8f5.JPG)
 ![Slajd6](https://user-images.githubusercontent.com/101888814/159359942-156fd458-12eb-470b-b302-b11734a99d27.JPG)
