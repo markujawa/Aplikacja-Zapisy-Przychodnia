@@ -1,0 +1,7 @@
+
+Dermatolog
+Ginekolog
+Internista
+Ortopeda
+Pediatra
+Stomatolog
