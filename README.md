@@ -1,6 +1,8 @@
 # AplikacjaZapisyPrzychodnia
 
-Aplikacja umożliwiająca zapis pacjenta na wizytę u lekarza, która także przeprowadza wstępny wywiad medyczny mający na celu przyspieszenie wizyty lekarskiej
+<ins>Authors: Maria Kujawa & Katarzyna Latos</ins>
+
+Aplikacja umożliwiająca zapis pacjenta na wizytę u lekarza, która przeprowadza także wstępny wywiad medyczny mający na celu przyspieszenie wizyty lekarskiej
 
 ![Slajd1](https://user-images.githubusercontent.com/101888814/159359852-00de8f2e-ada2-4413-a331-2f1abdaa4a6f.JPG)
 ![Slajd2](https://user-images.githubusercontent.com/101888814/159359895-0f30eb44-e10d-483b-af0d-565aaca37fed.JPG)
