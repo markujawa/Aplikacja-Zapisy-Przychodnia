@@ -1,6 +1,11 @@
 # AplikacjaZapisyPrzychodnia
 
-<ins>Authors: Maria Kujawa & Katarzyna Latos</ins>
+<ins>Autorzy:</ins>
+
+- [Maria Kujawa @markujawa](https://github.com/markujawa)
+- [Katarzyna Latos @latoskasia](https://github.com/latoskasia)
+
+<ins>Opis:</ins>
 
 Aplikacja umożliwiająca zapis pacjenta na wizytę u lekarza, która przeprowadza także wstępny wywiad medyczny mający na celu przyspieszenie wizyty lekarskiej
 
